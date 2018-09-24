@@ -20,8 +20,195 @@
 	height: 1340px;
 	background: white;
 }
+.content .duan{
+	width: 100%;
+	height: 400px;
+	/*background: yellow;*/
+}
+.duan .tttt{
+	float: left;
+	width: 50%;
+	height: 100%;
+	/*background: gray;*/
+}
+.tttt .tintuc{
+	float: left;
+	width: 50%;
+	height: 100%;
+	/*background: red;*/
+}
+.tintuc h2{
+	text-transform: uppercase;
+	color: #d61135;
+	font-size: 19px; 
+	padding: 5px 5px 0px 5px;
+
+}
+.tintuc .line{
+	margin: 0 auto;
+	width: 96%;
+	height: 3px;
+	background: #c40909;
+}
+.tintuc img{
+	margin-top: 5px;
+	width: 350px;
+ 	height: 200px;
+}
+.tintuc a{
+	text-decoration: none;
+	color: blue;
+}
+.tintuc h3{
+	padding: 5px;
+}
+.tintuc a:hover{
+ 	color: red;
+}
+.tintuc p{
+	padding: 5px;
+	font-size: 20px;
+}
+.tttt .thongtin1{
+	float: left;
+	margin-left: 2%;
+	width: 48%;
+	height: 100%;
+	/*background: green;*/
+}
+.thongtin1 ul li{
+	margin-top: 35px;
+	display: block;
+	width: 100%;
+	height: 15%;
+}
+.thongtin1 ul li a img{
+	float: left;
+	margin-right: 5px;
+	width: 80px;
+	height: 55px;
+}
+.thongtin1 ul li p.AN{
+	font-size: 17px;
+}
+.thongtin1 ul li p{
+	font-size: 17px;
+}
+.thongtin1 ul li a{
+	text-decoration: none;
+}
+.thongtin1 ul li a:hover{
+	color: red;
+}
+.thongtin1 img{
+	width: 30px;
+	height: 30px;
+}
+.duan .video{
+	float: left;
+	width: 50%;
+	height: 100%;
+	/*background: blue;*/
+}
+.video h2{
+	text-transform: uppercase;
+	color: #d61135;
+	font-size: 20px; 
+	padding: 5px 5px 0px 5px;
+
+}
+.video .line{
+	margin-left: 10px;
+	width: 323px;
+	height: 3px;
+	background: #c40909;
+}
+.video iframe{
+	margin-top: 10px;
+	margin: 5px;
+	width: 680px;
+	height: 340px;
+
+}
+/* ket thuc du an */
+/* bat dau thong tin */
+.content .thongtin{
+	width: 100%;
+	height: 240px;
+	background: white;
+	display: block;
+}
+.title{
+	width: 50%;
+	margin-left: 5px;
+}
+.title h2{
+	color: red;
+	margin-bottom: 10px;
+}
+.thongtin .gioithieu{
+	width: 32%;
+	height: 240px;
+	float: left;
+}
+.text{
+	width: 100%;
+	height: 90px;
+}
+.text p{
+	margin-left: 5px;
+	font-size: 19px;
+}
+.gioithieu .icon{
+	width: 100%;
+	height: 63px;
+	margin-top: 20px;
+}
+.icon img{
+	float: left;
+	width: 40px;
+	height: 40px;
+	margin-right: 10px;
+	margin-left: 5px;
+}
+.thongtin .lienhe{
+	width: 32%;
+	height: 240px;
+	background: white;
+	float: left;
+	margin-left: 2%;
+
+}
+.lienhe .admin{
+	width: 100%;
+	height: 40px;
+	margin-bottom: 5px;
+}
+.admin img{
+	width: 20px;
+	height: 20px;
+	float: left;
+}
+
+.thongtin .map{
+	width: 32%;
+	height: 240px;
+	background: yellow;
+	float: left;
+	margin-left: 1%;
+}
+.map img{
+	width: 100%;
+	height: 100%;
+}
 .khung .foter{
 	width: 100%;
 	height: 50px;
 	background: blue;
+}
+.foter p{
+	font-size: 25px;
+	padding: 10px ;
+	text-align: center;
+	color: white;
 }
