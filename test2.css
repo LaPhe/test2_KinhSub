@@ -55,16 +55,13 @@
 }
 .menu ul li a{
 	color: blue;
-	font-size: 12px;
+	font-size: 20px;
 	line-height: 70px;
 	padding: 5px;
 	text-decoration: none;
 }
 .menu ul li a:hover{
 	color: red;
-}
-.menu ul li:hover{
-	border-bottom: 3px solid red;
 }
 .khung .pic{
 	width: 100%;
@@ -79,7 +76,6 @@
 	height: 1340px;
 	background: white;
 }
-<<<<<<< HEAD
 .content .duan{
 	width: 100%;
 	height: 400px;
@@ -190,8 +186,6 @@
 	height: 340px;
 
 }
-/* ket thuc du an */
-/* bat dau thong tin */
 .content .thongtin{
 	width: 100%;
 	height: 240px;
@@ -261,8 +255,6 @@
 	width: 100%;
 	height: 100%;
 }
-=======
-/* bat dau thong tin du an */
 .content .thongtinduan{
 	width: 100%;
 	height: 300px;
@@ -335,10 +327,7 @@
 	color: white;
 	text-align: center;
 	font-weight: bold;
-}
-
-/* ket thuc thong ti du an */
-/* *bat dau du an tieu bieu*/ 
+} 
 .content .duantieubieu{
 	clear: both;
 	margin: 0 auto;
@@ -357,7 +346,6 @@
 	height: 40px;
 	/*background: violet;*/
 	margin-top: 10px;
-
 }
 .text1 h2{
 	text-transform: uppercase;
@@ -453,8 +441,6 @@
 	font-size: 18px;
 	line-height: 25px;
 }
-/* ket thuc du an tieu bieu */
->>>>>>> 2c1994eff4a8f137c11e5b1be6afa468bfa78296
 .khung .foter{
 	width: 100%;
 	height: 50px;
