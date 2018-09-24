@@ -11,9 +11,68 @@
 	width: 100%;
 	height: 150px;
 }
+.header .logo{
+	float: left;
+	width: 25%;
+	height: 100%;
+}
+.logo img{
+	width: 100%;
+	height: 100%;
+}
+.header .home{
+	float: left;
+	width: 75%;
+	height: 150px;
+}
+.home h2{
+	color: red;
+	font-size: 40px;
+	line-height: 40px;
+	padding: 10px;
+	display: block;
+	width: 70%;
+	height: 50px;
+	margin-left: 40px;
+}
+.home .menu{
+	width: 100%;
+	height: 60px;
+	margin-top: 10px;
+}
+.menu ul{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+.menu ul li{
+	float: left;
+	width: 12.5%;
+	height: 70px;
+	list-style: none;
+	display: block;
+}
+.menu ul li a{
+	color: blue;
+	font-size: 12px;
+	line-height: 70px;
+	padding: 5px;
+	text-decoration: none;
+}
+.menu ul li a:hover{
+	color: red;
+}
+.menu ul li:hover{
+	border-bottom: 3px solid red;
+}
 .khung .pic{
 	width: 100%;
 	height: 600px;
+}
+.pic img{
+	width: 100%;
+	height: 100%;
 }
 .khung .content{
 	width: 100%;
